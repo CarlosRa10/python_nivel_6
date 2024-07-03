@@ -22,11 +22,11 @@ mi_archivo.close()
 
 ###EXAMEN###
 
-mi_archivo = open('texto.txt')
+mi_archivo = open('C:/Users/Casa/Desktop/PythonTotal/pythonProject/Día 6/Prueba.txt')
 print(mi_archivo.read())
 
 ##############################
-mi_archivo = open('texto.txt')
+mi_archivo = open('C:/Users/Casa/Desktop/PythonTotal/pythonProject/Día 6/Prueba.txt')
 
 una_linea = mi_archivo.readline()
 print(una_linea)
@@ -35,7 +35,7 @@ print(una_linea)
 mi_archivo.close()
 
 #################
-mi_archivo = open('texto.txt')
+mi_archivo = open('C:/Users/Casa/Desktop/PythonTotal/pythonProject/Día 6/Prueba.txt')
 primera_linea = mi_archivo.readline()
 segunda_linea = mi_archivo.readline()
 print(segunda_linea)
